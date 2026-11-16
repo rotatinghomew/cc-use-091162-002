@@ -1,0 +1,158 @@
+{
+  "scenario": "跨国人工智能风险事件协作登记网",
+  "synthetic": true,
+  "records": [
+    {
+      "record_id": "risk_incident-001",
+      "payload": {
+        "incident_code": "incident_code-0",
+        "severity_score": 13.9,
+        "impact_scope": 15.8,
+        "cross_border_link": 0.58,
+        "containment_progress": 0.69,
+        "report_delay_h": 21.5,
+        "evidence_age_h": 23.4,
+        "evidence_quality": 0.25,
+        "corroboration_delay": 27.2,
+        "affected_population": 29.1,
+        "notification_channels": 31.0,
+        "ack_rate": 0.69
+      },
+      "state": "reported",
+      "source": "synthetic-local-acceptance"
+    },
+    {
+      "record_id": "risk_incident-002",
+      "payload": {
+        "incident_code": "incident_code-1",
+        "severity_score": 17.6,
+        "impact_scope": 19.5,
+        "cross_border_link": 0.69,
+        "containment_progress": 0.8,
+        "report_delay_h": 25.2,
+        "evidence_age_h": 27.1,
+        "evidence_quality": 0.36,
+        "corroboration_delay": 30.9,
+        "affected_population": 32.8,
+        "notification_channels": 34.7,
+        "ack_rate": 0.8
+      },
+      "state": "reported",
+      "source": "synthetic-local-acceptance"
+    },
+    {
+      "record_id": "risk_incident-003",
+      "payload": {
+        "incident_code": "incident_code-2",
+        "severity_score": 21.3,
+        "impact_scope": 23.2,
+        "cross_border_link": 0.8,
+        "containment_progress": 0.91,
+        "report_delay_h": 28.9,
+        "evidence_age_h": 30.8,
+        "evidence_quality": 0.47,
+        "corroboration_delay": 34.6,
+        "affected_population": 36.5,
+        "notification_channels": 38.4,
+        "ack_rate": 0.91
+      },
+      "state": "reported",
+      "source": "synthetic-local-acceptance"
+    },
+    {
+      "record_id": "risk_incident-004",
+      "payload": {
+        "incident_code": "incident_code-3",
+        "severity_score": 25.0,
+        "impact_scope": 26.9,
+        "cross_border_link": 0.91,
+        "containment_progress": 0.25,
+        "report_delay_h": 32.6,
+        "evidence_age_h": 34.5,
+        "evidence_quality": 0.58,
+        "corroboration_delay": 38.3,
+        "affected_population": 40.2,
+        "notification_channels": 42.1,
+        "ack_rate": 0.25
+      },
+      "state": "reported",
+      "source": "synthetic-local-acceptance"
+    },
+    {
+      "record_id": "risk_incident-005",
+      "payload": {
+        "incident_code": "incident_code-4",
+        "severity_score": 28.7,
+        "impact_scope": 30.6,
+        "cross_border_link": 0.25,
+        "containment_progress": 0.36,
+        "report_delay_h": 36.3,
+        "evidence_age_h": 38.2,
+        "evidence_quality": 0.69,
+        "corroboration_delay": 42.0,
+        "affected_population": 43.9,
+        "notification_channels": 45.8,
+        "ack_rate": 0.36
+      },
+      "state": "reported",
+      "source": "synthetic-local-acceptance"
+    },
+    {
+      "record_id": "risk_incident-006",
+      "payload": {
+        "incident_code": "incident_code-0",
+        "severity_score": 32.4,
+        "impact_scope": 34.3,
+        "cross_border_link": 0.36,
+        "containment_progress": 0.47,
+        "report_delay_h": 40.0,
+        "evidence_age_h": 41.9,
+        "evidence_quality": 0.8,
+        "corroboration_delay": 45.7,
+        "affected_population": 47.6,
+        "notification_channels": 49.5,
+        "ack_rate": 0.47
+      },
+      "state": "reported",
+      "source": "synthetic-local-acceptance"
+    },
+    {
+      "record_id": "risk_incident-007",
+      "payload": {
+        "incident_code": "incident_code-1",
+        "severity_score": 36.1,
+        "impact_scope": 38.0,
+        "cross_border_link": 0.47,
+        "containment_progress": 0.58,
+        "report_delay_h": 43.7,
+        "evidence_age_h": 45.6,
+        "evidence_quality": 0.91,
+        "corroboration_delay": 49.4,
+        "affected_population": 51.3,
+        "notification_channels": 53.2,
+        "ack_rate": 0.58
+      },
+      "state": "reported",
+      "source": "synthetic-local-acceptance"
+    },
+    {
+      "record_id": "risk_incident-008",
+      "payload": {
+        "incident_code": "incident_code-2",
+        "severity_score": 39.8,
+        "impact_scope": 41.7,
+        "cross_border_link": 0.58,
+        "containment_progress": 0.69,
+        "report_delay_h": 47.4,
+        "evidence_age_h": 49.3,
+        "evidence_quality": 0.25,
+        "corroboration_delay": 53.1,
+        "affected_population": 55.0,
+        "notification_channels": 56.9,
+        "ack_rate": 0.69
+      },
+      "state": "reported",
+      "source": "synthetic-local-acceptance"
+    }
+  ]
+}
